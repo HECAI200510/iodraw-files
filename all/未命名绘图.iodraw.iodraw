@@ -23,13 +23,13 @@
           <mxGeometry x="325" y="90" width="183" height="44" as="geometry" />
         </mxCell>
         <mxCell id="fWddrVgFnv9znCL1tGek-14" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;超时失败&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-179" width="164" height="30.5" as="geometry" />
+          <mxGeometry x="328" y="-179" width="164" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="fWddrVgFnv9znCL1tGek-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="508" y="-223.75" width="187" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fWddrVgFnv9znCL1tGek-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=6;" vertex="1" parent="1">
-          <mxGeometry x="508" y="34" width="187" height="120" as="geometry" />
+          <mxGeometry x="508" y="32" width="187" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
