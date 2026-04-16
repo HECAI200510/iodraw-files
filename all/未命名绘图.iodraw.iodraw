@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1256" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2574" dy="1460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -13,7 +13,7 @@
         <mxCell id="fWddrVgFnv9znCL1tGek-13" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;失去所有生命值&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="326" y="97" width="157" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="fWddrVgFnv9znCL1tGek-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWddrVgFnv9znCL1tGek-14" target="fWddrVgFnv9znCL1tGek-25">
+        <mxCell id="fWddrVgFnv9znCL1tGek-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWddrVgFnv9znCL1tGek-14" target="fWddrVgFnv9znCL1tGek-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fWddrVgFnv9znCL1tGek-14" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;超时失败&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
