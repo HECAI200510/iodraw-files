@@ -28,11 +28,8 @@
         <mxCell id="fWddrVgFnv9znCL1tGek-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="702" y="-239" width="89" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="fWddrVgFnv9znCL1tGek-23" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="192" y="-502" as="sourcePoint" />
-            <mxPoint x="292" y="-502" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fWddrVgFnv9znCL1tGek-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="143" y="-153" width="187" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
