@@ -14,7 +14,7 @@
           <mxGeometry x="317" y="-457" width="79" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="fWddrVgFnv9znCL1tGek-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=6;" vertex="1" parent="1">
-          <mxGeometry x="137" y="-106" width="187" height="120" as="geometry" />
+          <mxGeometry x="137" y="-106" width="187" height="260" as="geometry" />
         </mxCell>
         <mxCell id="fWddrVgFnv9znCL1tGek-12" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;失败规则&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-25" y="-60" width="166" height="30.5" as="geometry" />
